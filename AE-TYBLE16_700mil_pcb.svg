@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="10.414mm"
+   height="20.573999mm"
+   viewBox="0 0 10.414 20.573999"
+   version="1.1"
+   id="svg745"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs742" />
+  <g
+     id="layer1"
+     transform="translate(-248.14784,-123.84203)">
+    <g
+       id="copper1"
+       gorn="0.1"
+       transform="matrix(0.0254,0,0,0.0254,248.02084,123.71503)">
+      <g
+         id="copper0"
+         gorn="0.1.0">
+        <rect
+           width="55"
+           id="square"
+           fill="none"
+           stroke-width="20"
+           y="32.5"
+           height="55"
+           x="32.5"
+           gorn="0.1.0.0"
+           stroke="#ffbf00" />
+        <circle
+           id="connector0pin"
+           fill="none"
+           stroke-width="20"
+           cy="60"
+           r="27.5"
+           gorn="0.1.0.1"
+           stroke="#ffbf00"
+           cx="60" />
+        <circle
+           id="connector15pin"
+           fill="none"
+           stroke-width="20"
+           cy="60"
+           r="27.5"
+           gorn="0.1.0.2"
+           stroke="#ffbf00"
+           cx="360" />
+        <circle
+           id="connector1pin"
+           fill="none"
+           stroke-width="20"
+           cy="160"
+           r="27.5"
+           gorn="0.1.0.3"
+           stroke="#ffbf00"
+           cx="60" />
+        <circle
+           id="connector14pin"
+           fill="none"
+           stroke-width="20"
+           cy="160"
+           r="27.5"
+           gorn="0.1.0.4"
+           stroke="#ffbf00"
+           cx="360" />
+        <circle
+           id="connector2pin"
+           fill="none"
+           stroke-width="20"
+           cy="260"
+           r="27.5"
+           gorn="0.1.0.5"
+           stroke="#ffbf00"
+           cx="60" />
+        <circle
+           id="connector13pin"
+           fill="none"
+           stroke-width="20"
+           cy="260"
+           r="27.5"
+           gorn="0.1.0.6"
+           stroke="#ffbf00"
+           cx="360" />
+        <circle
+           id="connector3pin"
+           fill="none"
+           stroke-width="20"
+           cy="360"
+           r="27.5"
+           gorn="0.1.0.7"
+           stroke="#ffbf00"
+           cx="60" />
+        <circle
+           id="connector12pin"
+           fill="none"
+           stroke-width="20"
+           cy="360"
+           r="27.5"
+           gorn="0.1.0.8"
+           stroke="#ffbf00"
+           cx="360" />
+        <circle
+           id="connector4pin"
+           fill="none"
+           stroke-width="20"
+           cy="460"
+           r="27.5"
+           gorn="0.1.0.9"
+           stroke="#ffbf00"
+           cx="60" />
+        <circle
+           id="connector11pin"
+           fill="none"
+           stroke-width="20"
+           cy="460"
+           r="27.5"
+           gorn="0.1.0.10"
+           stroke="#ffbf00"
+           cx="360" />
+        <circle
+           id="connector5pin"
+           fill="none"
+           stroke-width="20"
+           cy="560"
+           r="27.5"
+           gorn="0.1.0.11"
+           stroke="#ffbf00"
+           cx="60" />
+        <circle
+           id="connector10pin"
+           fill="none"
+           stroke-width="20"
+           cy="560"
+           r="27.5"
+           gorn="0.1.0.12"
+           stroke="#ffbf00"
+           cx="360" />
+        <circle
+           id="connector6pin"
+           fill="none"
+           stroke-width="20"
+           cy="660"
+           r="27.5"
+           gorn="0.1.0.13"
+           stroke="#ffbf00"
+           cx="60" />
+        <circle
+           id="connector9pin"
+           fill="none"
+           stroke-width="20"
+           cy="660"
+           r="27.5"
+           gorn="0.1.0.14"
+           stroke="#ffbf00"
+           cx="360" />
+        <circle
+           id="connector7pin"
+           fill="none"
+           stroke-width="20"
+           cy="760"
+           r="27.5"
+           gorn="0.1.0.15"
+           stroke="#ffbf00"
+           cx="60" />
+        <circle
+           id="connector8pin"
+           fill="none"
+           stroke-width="20"
+           cy="760"
+           r="27.5"
+           gorn="0.1.0.16"
+           stroke="#ffbf00"
+           cx="360" />
+      </g>
+    </g>
+    <g
+       id="silkscreen"
+       gorn="0.2"
+       transform="matrix(0.0254,0,0,0.0254,248.02084,123.71503)">
+      <line
+         y2="810"
+         y1="10"
+         x1="10"
+         stroke-width="10"
+         stroke="#ffffff"
+         x2="10"
+         id="line23" />
+      <line
+         y2="810"
+         y1="810"
+         x1="10"
+         stroke-width="10"
+         stroke="#ffffff"
+         x2="410"
+         id="line25" />
+      <line
+         y2="10"
+         y1="810"
+         x1="410"
+         stroke-width="10"
+         stroke="#ffffff"
+         x2="410"
+         id="line27" />
+      <line
+         y2="10"
+         y1="10"
+         x1="10"
+         stroke-width="10"
+         stroke="#ffffff"
+         x2="160"
+         id="line29" />
+      <line
+         y2="10"
+         y1="10"
+         x1="260"
+         stroke-width="10"
+         stroke="#ffffff"
+         x2="410"
+         id="line31" />
+    </g>
+  </g>
+</svg>
