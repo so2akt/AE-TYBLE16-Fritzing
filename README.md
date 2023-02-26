@@ -1,2 +1,2 @@
-# ae-tyble16_700mil-fritzing
-AE-TYBLE16 (700mil) fritzing part
+# ae-tyble16_300mil-fritzing
+AE-TYBLE16 (300mil) fritzing part
